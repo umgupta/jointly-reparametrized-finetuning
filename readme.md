@@ -1,6 +1,6 @@
 ## Jointly Reparametrized Multi-Layer Adaptation for Efficient and Private Tuning
 
-This repository contains the code for our ACL 2023 Paper --- Jointly Reparametrized Multi-Layer Adaptation for Efficient and Private Tuning.
+This repository contains the code for our ACL 2023 Paper --- Jointly Reparametrized Multi-Layer Adaptation for Efficient and Private Tuning ([https://arxiv.org/abs/2305.19264](https://arxiv.org/abs/2305.19264)).
 
 ### Citation
 
